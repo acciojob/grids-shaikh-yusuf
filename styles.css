@@ -1,2 +1,30 @@
 
 /* Your CSS Code here. */
+.container{
+	
+	border:5px solid  rgb(4, 255, 4) ;
+	background:rgb(41, 0, 0);
+}
+.container .row{
+	border:5px solid rgb(255, 188, 188);
+	height:200px;
+}
+.row1-col1{
+	background:teal;
+}
+.row1-col2{
+	background:thistle;
+}
+.row2-col1{
+	background:tomato;
+}
+.row2-col2{
+	background:turquoise;
+}
+.row3-col1{
+	background:violet;
+}
+.row3-col2{
+	background:yellowgreen;
+}
+	
