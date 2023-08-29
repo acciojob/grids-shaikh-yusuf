@@ -12,19 +12,19 @@
 .container .row .col{
 	border:2px dotted rgb(38, 38, 43);
 }
-.row1-col1{
+.r1c1{
 	background:teal;
 }
 .row1-col2{
 	background:thistle;
 }
-.row2-col1{
+.r2c1{
 	background:tomato;
 }
 .row2-col2{
 	background:turquoise;
 }
-.row3-col1{
+.r3c1{
 	background:violet;
 }
 .row3-col2{
