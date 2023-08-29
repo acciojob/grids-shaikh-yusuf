@@ -9,6 +9,9 @@
 	border:5px solid rgb(255, 188, 188);
 	height:200px;
 }
+.container .row .col{
+	border:2px dotted rgb(38, 38, 43);
+}
 .row1-col1{
 	background:teal;
 }
@@ -27,4 +30,5 @@
 .row3-col2{
 	background:yellowgreen;
 }
+
 	
